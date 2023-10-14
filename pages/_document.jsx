@@ -4,6 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head />
+      <link rel="icon" href="/assets/ace-sql.png"/>
       <body>
         <Main />
         <NextScript />
