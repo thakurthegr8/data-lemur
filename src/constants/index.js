@@ -1,6 +1,6 @@
 export const DOMAIN = "ace-sql.vercel.app";
 
-export const LOGOTEXT = "⚡️Ace SQL";
+export const LOGOTEXT = "Ace SQL";
 
 export const DEFAULT_BANNER =
   "https://raw.githubusercontent.com/thakurthegr8/data-lemur/main/public/assets/og.png";
